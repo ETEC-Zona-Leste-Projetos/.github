@@ -35,6 +35,6 @@
 
 <!-- replace-sponsors-start -->
 <a title="k33n" href="https://github.com/jeffersonrucu">
-  <img src="https://avatars.githubusercontent.com/u/46950703?v=4" width="80" alt="Jefferson Oliveira">
+  <img src="https://avatars.githubusercontent.com/u/46950703?v=4" width="50" alt="Jefferson Oliveira">
 </a>
 <!-- replace-sponsors-end -->
