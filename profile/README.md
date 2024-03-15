@@ -34,7 +34,15 @@
 <h2>Colaboradores</h2>
 
 <!-- replace-sponsors-start -->
-<a title="k33n" href="https://github.com/jeffersonrucu">
+<a title="Jefferson Oliveira" href="https://github.com/jeffersonrucu">
   <img src="https://avatars.githubusercontent.com/u/46950703?v=4" width="50" alt="Jefferson Oliveira">
+</a>
+
+<a title="Mariane Souza" href="https://github.com/MarianeBS">
+  <img src="https://avatars.githubusercontent.com/u/99426651?v=4" width="50" alt="Mariane Souza">
+</a>
+
+<a title=Jeferson Roberto" href="https://github.com/jefersonrl">
+  <img src="https://avatars.githubusercontent.com/u/14889859?v=4" width="50" alt="Jeferson Roberto">
 </a>
 <!-- replace-sponsors-end -->
