@@ -1,4 +1,4 @@
-<img src="./hero.png" />
+<img src="https://github.com/ETEC-Zona-Leste-Projetos/.github/blob/main/profile/hero.png?raw=true" />
 
 <h2>Projetos</h2>
 <nav>
