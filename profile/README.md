@@ -42,7 +42,7 @@
   <img src="https://avatars.githubusercontent.com/u/99426651?v=4" width="50" alt="Mariane Souza">
 </a>
 
-<a title=Jeferson Roberto" href="https://github.com/jefersonrl">
+<a title="Jeferson Roberto" href="https://github.com/jefersonrl">
   <img src="https://avatars.githubusercontent.com/u/14889859?v=4" width="50" alt="Jeferson Roberto">
 </a>
 <!-- replace-sponsors-end -->
